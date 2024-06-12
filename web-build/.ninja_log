@@ -1,0 +1,6 @@
+# ninja log v6
+1	11	1718159651282846543	/home/henry/opengles-demo/web-build/CMakeFiles/cmake.verify_globs	59a0f34f840149fc
+12	1540	1718159651292846610	CMakeFiles/SokobanGameDemo.dir/src/core.cpp.o	1d2b8df8eb09a64b
+11	2041	1718159651292846610	include/glad/CMakeFiles/glad.dir/glad.c.o	2d1d21ea64bc2868
+2041	2200	1718159653322860406	include/glad/libglad.a	35db158effb7770
+2200	5252	1718159653482861493	SokobanGameDemo.html	8ebe97c65cc2e77
